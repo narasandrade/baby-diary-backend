@@ -26,6 +26,7 @@ cd baby-diary-backend
 npm install
 ```
 ### 3. Configure environment variables
+Create a .env file in the project root based on .env.example:
 ```sh
 MONGO_URI=your_mongodb_connection_string
 PORT=5000
